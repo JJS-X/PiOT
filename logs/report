@@ -1,0 +1,93 @@
+===============================
+Thu 18 Feb 08:30:02 CET 2021
+===============================
+Manage
+-------------------------------
+---
+DS_Store : OK
+---
+SUID : OK
+---
+---
+New IP found
+---
+---
+---
+---
+---
+---
+Feb 17 10:01:01 Accepted password for root
+Feb 17 10:01:13 Accepted password for root
+Feb 17 10:01:47 Accepted password for root
+Feb 17 10:14:47 Accepted password for root
+Feb 17 10:26:57 Accepted password for root
+Feb 17 10:29:50 Accepted password for root
+Feb 17 10:32:32 Received disconnect from 2.12.187.235
+Feb 17 10:32:32 Disconnected from user root
+Feb 17 10:38:02 Accepted password for root
+Feb 17 10:40:49 Received disconnect from 2.12.187.235
+Feb 17 10:40:49 Disconnected from user root
+Feb 17 11:54:47 Accepted password for root
+Feb 17 11:59:35 Accepted password for root
+Feb 17 11:59:39 Accepted password for root
+Feb 17 12:14:59 Accepted password for root
+Feb 17 12:15:05 Received disconnect from 2.12.187.235
+Feb 17 12:15:05 Disconnected from user root
+Feb 17 12:15:10 Accepted password for root
+Feb 17 12:37:22 Received disconnect from 2.12.187.235
+Feb 17 12:37:22 Disconnected from user root
+Feb 17 12:37:56 Accepted password for root
+Feb 17 14:08:13 Accepted password for root
+Feb 17 14:10:00 Accepted password for root
+Feb 17 14:22:40 Accepted password for root
+Feb 17 15:47:42 Accepted password for root
+Feb 17 16:06:40 Accepted password for root
+Feb 17 16:07:06 Accepted password for root
+---
+===============================
+Base MAC
+-------------------------------
+1 android-a3cd9125dc054ed8  10.10.0.103  80:4e:81:92:e9:61 
+2 MBP-de-JJSMB  10.10.0.100  60:33:4b:27:a9:ed 
+3 barry  10.10.0.106  08:00:27:11:67:55 
+
+===============================
+Network
+-------------------------------
+- LAN = 
+- Wireguard = 
+- WAN = 79.89.247.50
+-------------------------------
+System
+-------------------------------
+- Version OS = "Debian GNU/Linux bullseye/sid"
+- Uptime = 16:28
+- Kernel = 5.10.11-v7l+
+- Utilisateurs = 0 users
+-------------------------------
+Memory
+-------------------------------
+- Total memory =  3827 Mb
+- Used memory = 140 Mb
+- Available memory =  3527 Mb
+- Free memory =  3084 Mb
+-------------------------------
+Disks
+-------------------------------
+- Utilisation de SR1 =
+- Utilisation de Ext =
+-------------------------------
+Updates
+-------------------------------
+Listing...
+hardlink
+libpolkit-agent-1-0
+libpolkit-backend-1-0
+libpolkit-gobject-1-0
+libpython2-stdlib
+policykit-1
+python-rpi.gpio
+python2-minimal
+python2
+rpi.gpio-common
+===============================
