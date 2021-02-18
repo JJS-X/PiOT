@@ -1,0 +1,14 @@
+mariadb-server
+hostapd
+isc-dhcp-server
+dnsmasq
+nmap
+python3-venv
+python3-pip
+expect
+iptables
+fail2ban
+net-tools
+bind9
+bind9utils
+dnsutils
