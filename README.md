@@ -17,6 +17,7 @@ The main goals here is to provide an all-in-one solutions to try mitigate securi
 - Firewall filtering
 - Defaut password scans
 - Network segmentation
+- Log analysis
 
 ## In development
 - Safe to keep password
